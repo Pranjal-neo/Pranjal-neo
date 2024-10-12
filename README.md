@@ -19,7 +19,7 @@ As a **Co-Founder**, **VP of Engineering**, and **Data Scientist**, I blend tech
 
 ## 📫 **Contact Me**
 
-- **Email:** [pranjalab@gmail.com](mailto:pranjalab@gmail.com)
+- **Email:** [pranjalab@gmail.com](mailto:pranjal@neophyte.ai)
 - **Mobile:** +91 908 786 3216
 - **LinkedIn:** [Pranjal Bhaskare](https://www.linkedin.com/in/pranjalbhaskare)
 
